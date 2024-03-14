@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-    s.name             = 'flutter_tts'
+    s.name             = 'flutter_tt'
     s.version          = '0.0.1'
     s.summary          = 'macOS implementation of the flutter_tts plugin.'
     s.description      = <<-DESC

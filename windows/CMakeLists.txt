@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-set(PROJECT_NAME "flutter_tts")
+set(PROJECT_NAME "flutter_tt")
 project(${PROJECT_NAME} LANGUAGES CXX)
 
 ################ NuGet intall begin ################
