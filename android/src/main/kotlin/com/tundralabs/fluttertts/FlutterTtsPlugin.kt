@@ -581,7 +581,7 @@ class FlutterTtsPlugin : MethodCallHandler, FlutterPlugin {
         val data = HashMap<String, String>()
         data["min"] = "0"
         data["normal"] = "0.5"
-        data["max"] = "1.5"
+        data["max"] = "15"
         data["platform"] = "android"
         result.success(data)
     }
